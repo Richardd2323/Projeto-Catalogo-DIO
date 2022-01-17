@@ -1,0 +1,15 @@
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\bin\Debug\net6.0\Catalogo.exe
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\bin\Debug\net6.0\Catalogo.deps.json
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\bin\Debug\net6.0\Catalogo.runtimeconfig.json
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\bin\Debug\net6.0\Catalogo.dll
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\bin\Debug\net6.0\ref\Catalogo.dll
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\bin\Debug\net6.0\Catalogo.pdb
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\obj\Debug\net6.0\Catalogo.csproj.AssemblyReference.cache
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\obj\Debug\net6.0\Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\obj\Debug\net6.0\Catalogo.AssemblyInfoInputs.cache
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\obj\Debug\net6.0\Catalogo.AssemblyInfo.cs
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\obj\Debug\net6.0\Catalogo.csproj.CoreCompileInputs.cache
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\obj\Debug\net6.0\Catalogo.dll
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\obj\Debug\net6.0\ref\Catalogo.dll
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\obj\Debug\net6.0\Catalogo.pdb
+D:\estudo\dotnet\ProjetoCatalogo\Catalogo\obj\Debug\net6.0\Catalogo.genruntimeconfig.cache
